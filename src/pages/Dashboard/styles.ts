@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const FoodsContainer = styled.div`
   width: 100%;
-  max-width: 1280px;
+  max-width: 1120px;
   margin: 0 auto;
-  padding: 40px 0;
+  padding: 10px 0 50px 0;
   margin-top: -140px;
 
   display: grid;
